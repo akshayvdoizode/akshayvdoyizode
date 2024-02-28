@@ -8,9 +8,9 @@ interface ProfileNameProps {}
 const ProfileName: FC<ProfileNameProps> = ({}) => {
     return (
         <div className="text-3xl flex flex-col font-bold text-highlight">
-            Neeraj Walia
+            Akshay V Doyizode
             <div className="text-sm font-thin flex justify-between items-center">
-                @ezSnippet
+                @avdoyizode
                 <Link
                     className="block md:hidden"
                     href="https://instagram.com/ezSnippet"
